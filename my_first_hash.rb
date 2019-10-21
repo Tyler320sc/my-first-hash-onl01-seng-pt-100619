@@ -4,7 +4,7 @@ hash = {
   "name" => "Ty",
   "age" => 27
 }
-  
+  hash 
 end
 
 
