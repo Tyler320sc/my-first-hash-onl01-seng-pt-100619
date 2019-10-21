@@ -4,9 +4,8 @@ hash = {
   "name" => "Ty",
   "age" => 27
 }
-  hash 
 end
-
+hash 
 
 def shipping_manifest
   # set a variable called `the_manifest`, equal to a hash
