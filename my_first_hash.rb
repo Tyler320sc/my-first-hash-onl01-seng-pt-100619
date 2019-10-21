@@ -19,6 +19,7 @@ the_manifest = {
 
 end
 shipping_manifest
+
 def retrieval
   shipping_manifest = {
                   "whale bone corsets" => 5, 
